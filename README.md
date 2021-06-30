@@ -1,9 +1,11 @@
-# READ ME
+# Connect 4
 Connect 4 in python with "AI"
-#Requirements
+# How to play
+* First type the number of what kind of game you want to play (choices will be displayed) and press enter
+* Then just keep typing the column number you want to put you checker in till you win(hopefully)
+## Requirements
 Requires Python 3
-
-To run this go to the folder you downloaded the file in and type:
-python connect4.py
-or
-python3 connect4.py
+To run this type(*make sure that you're in the correct folder*):
+```bash
+$ python connect4.py
+```
