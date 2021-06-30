@@ -6,7 +6,9 @@ Connect 4 in python with "AI"
 ## Requirements
 Requires Python 3
 
-(*make sure that you're in the correct folder*)
+
+### How to run it
+*Make sure that you're in the correct folder*
 
 To run this type:
 
