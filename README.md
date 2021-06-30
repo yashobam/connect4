@@ -6,6 +6,7 @@ Connect 4 in python with "AI"
 ## Requirements
 Requires Python 3
 To run this type(*make sure that you're in the correct folder*):
+
 ```bash
 $ python connect4.py
 ```
